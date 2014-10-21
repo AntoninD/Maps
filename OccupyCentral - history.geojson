@@ -1,0 +1,2923 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "",
+        "Removal date": "10 October 2014",
+        "Comments": "removal TBC",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.15867269039154,
+            22.282847107924628
+          ],
+          [
+            114.1587021946907,
+            22.282881854666382
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Removal date": "10 October 2014",
+        "Comments": "removal TBC",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.15842056274414,
+            22.28248723044863
+          ],
+          [
+            114.15844738483428,
+            22.28252197727982
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "close to bridge and city hall parking",
+        "Removal date": "before 18 October 2014",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1622668504715,
+            22.28168805094817
+          ],
+          [
+            114.16230171918869,
+            22.281680605154957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "close to bridge and city hall parking",
+        "Removal date": "before 18 October 2014",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16248947381973,
+            22.281655785841355
+          ],
+          [
+            114.16251629590987,
+            22.281673159361336
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Removal date": "",
+        "Comments": "close to bridge and city hall parking",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16236340999603,
+            22.282047930481095
+          ],
+          [
+            114.1623955965042,
+            22.28204296663177
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "police barrier at CE office",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16468352079391,
+            22.282278749280174
+          ],
+          [
+            114.16476130485535,
+            22.282306050403264
+          ],
+          [
+            114.16481494903563,
+            22.28229860464295
+          ],
+          [
+            114.16483372449873,
+            22.282211737410016
+          ],
+          [
+            114.16493833065033,
+            22.28218691819071
+          ],
+          [
+            114.16503220796585,
+            22.282164580889543
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Tim Mei Avenue",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1663008928299,
+            22.27971986580824
+          ],
+          [
+            114.16633576154709,
+            22.27968511828076
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "on the overpass to wan chai",
+        "Zone": "Admiralty",
+        "Current": "expired?"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16820794343948,
+            22.280000327678277
+          ],
+          [
+            114.16824549436569,
+            22.279995363756267
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "hutchison house corner",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1622668504715,
+            22.281305833050688
+          ],
+          [
+            114.16229367256165,
+            22.281278531732312
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "connaught road (may have been pushed back)",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1610598564148,
+            22.281715352186588
+          ],
+          [
+            114.16108399629593,
+            22.281784846223946
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "yee wo street west after reopning of west-bound lane",
+        "Set date": "14 October 2014",
+        "Zone": "Causeway Bay",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1849234700203,
+            22.280087196284995
+          ],
+          [
+            114.18481886386871,
+            22.280116979794883
+          ],
+          [
+            114.18474644422531,
+            22.28001273748255
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "14 October 2014",
+        "Comments": "yee wo street east after reopning of west-bound lane",
+        "Zone": "Causeway Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.185771048069,
+            22.279791842801995
+          ],
+          [
+            114.18573349714279,
+            22.279692564180227
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "14 October 2014",
+        "Comments": "Occupy CWB v3",
+        "Zone": "Causeway Bay"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.18477326631546,
+              22.28001521944327
+            ],
+            [
+              114.18482959270477,
+              22.280104569999867
+            ],
+            [
+              114.18495565652846,
+              22.28006982256797
+            ],
+            [
+              114.18575495481491,
+              22.279791842801995
+            ],
+            [
+              114.1857174038887,
+              22.279697528112987
+            ],
+            [
+              114.18486446142197,
+              22.27999288179519
+            ],
+            [
+              114.18477326631546,
+              22.28001521944327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "14 October 2014",
+        "Comments": "Lung Wo Road tunnel",
+        "Removal date": "14 October 2014",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16568398475647,
+            22.28243262826789
+          ],
+          [
+            114.16568130254744,
+            22.282387953740514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Lung Wo Road tunnel",
+        "Set date": "14 October 2014",
+        "Removal date": "14 October 2014",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16567325592041,
+            22.282330869601438
+          ],
+          [
+            114.16566789150238,
+            22.28228867696192
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Lung Wo Road tunnel",
+        "Set date": "14 October 2014",
+        "Removal date": "14 October 2014",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16627943515778,
+            22.282368098390435
+          ],
+          [
+            114.16627675294876,
+            22.28232590576215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Lung Wo Road tunnel",
+        "Set date": "14 October 2014",
+        "Removal date": "14 October 2014",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16627407073975,
+            22.28226633967701
+          ],
+          [
+            114.16627407073975,
+            22.282221665096518
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Lung Wui Road",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16702508926392,
+            22.28115443476345
+          ],
+          [
+            114.16700094938278,
+            22.281057639051276
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Lung Wui Road",
+        "Removal date": "",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16716188192368,
+            22.281057639051276
+          ],
+          [
+            114.16711360216141,
+            22.28088886688005
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Occupy CWB v1",
+        "Set date": "28 September 2014",
+        "Removal date": "3 October 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.18274015188216,
+              22.279935796678362
+            ],
+            [
+              114.18280720710754,
+              22.279779432978124
+            ],
+            [
+              114.18322294950485,
+              22.27993331471623
+            ],
+            [
+              114.18462574481964,
+              22.279980471989173
+            ],
+            [
+              114.18476790189743,
+              22.279960616297235
+            ],
+            [
+              114.18500393629074,
+              22.27988119350132
+            ],
+            [
+              114.18626457452774,
+              22.279439403375715
+            ],
+            [
+              114.18630212545395,
+              22.27936246225609
+            ],
+            [
+              114.18634504079819,
+              22.279397209863745
+            ],
+            [
+              114.18640941381454,
+              22.279570947772516
+            ],
+            [
+              114.18495029211044,
+              22.2800896782444
+            ],
+            [
+              114.18480008840561,
+              22.28012194371258
+            ],
+            [
+              114.1847088932991,
+              22.28012938958879
+            ],
+            [
+              114.18323367834091,
+              22.280094642163064
+            ],
+            [
+              114.18313711881638,
+              22.28007975040653
+            ],
+            [
+              114.18274015188216,
+              22.279935796678362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Occupy CWB v2",
+        "Set date": "3 September 2014",
+        "Removal date": "14 October 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.18274015188216,
+              22.279935796678362
+            ],
+            [
+              114.18279111385345,
+              22.279831554230974
+            ],
+            [
+              114.18320417404173,
+              22.279987917872916
+            ],
+            [
+              114.18327391147614,
+              22.279987917872916
+            ],
+            [
+              114.18326586484908,
+              22.27993827864044
+            ],
+            [
+              114.18462574481964,
+              22.279980471989173
+            ],
+            [
+              114.18476790189743,
+              22.279960616297235
+            ],
+            [
+              114.18500393629074,
+              22.27988119350132
+            ],
+            [
+              114.18626457452774,
+              22.279439403375715
+            ],
+            [
+              114.18630212545395,
+              22.27936246225609
+            ],
+            [
+              114.18634504079819,
+              22.279397209863745
+            ],
+            [
+              114.18640941381454,
+              22.279570947772516
+            ],
+            [
+              114.18495029211044,
+              22.2800896782444
+            ],
+            [
+              114.18480008840561,
+              22.28012194371258
+            ],
+            [
+              114.1847088932991,
+              22.28012938958879
+            ],
+            [
+              114.18323367834091,
+              22.280094642163064
+            ],
+            [
+              114.18313711881638,
+              22.28007975040653
+            ],
+            [
+              114.18274015188216,
+              22.279935796678362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "close to overpass lippo center",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16328608989716,
+            22.2798017706603
+          ],
+          [
+            114.16335850954056,
+            22.27975957725765
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "18 October 2014",
+        "Removal date": "",
+        "Comments": "Argyle street reclaimed early morning",
+        "Zone": "Mong Kok",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16928082704544,
+            22.319251991375676
+          ],
+          [
+            114.16928887367249,
+            22.31920980988601
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "18 October 2014",
+        "Comments": "nathan road northbound (from around 12am)",
+        "Zone": "Mong Kok",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16932106018066,
+            22.31919988482778
+          ],
+          [
+            114.16936933994293,
+            22.319207328621516
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "nathan road southbound (from early morning after first clearance)",
+        "Set date": "17 October 2014",
+        "Zone": "Mong Kok",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16942298412323,
+            22.319217253679227
+          ],
+          [
+            114.16946589946745,
+            22.319224697472063
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Pennington street",
+        "Removal date": "14 October 2014",
+        "Set date": "28 September 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18630212545395,
+            22.27935253436659
+          ],
+          [
+            114.18632090091705,
+            22.27935005239412
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Yee Wo Street Tramway",
+        "Removal date": "14 October 2014",
+        "Set date": "28 September 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1862216591835,
+            22.279513862483437
+          ],
+          [
+            114.18623507022858,
+            22.27955605596022
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Sugar street",
+        "Removal date": "14 October 2014",
+        "Set date": "28 September 2014?",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18649524450302,
+            22.279623069103057
+          ],
+          [
+            114.18651938438416,
+            22.279615623199888
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "end of yee wo street",
+        "Removal date": "14 October 2014",
+        "Set date": "28 September 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18700486421585,
+            22.279377354088997
+          ],
+          [
+            114.18699413537979,
+            22.279335160558297
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "end yee wo street tramway",
+        "Removal date": "14 October 2014",
+        "Set date": "28 September 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18699145317076,
+            22.279320268720888
+          ],
+          [
+            114.18697535991669,
+            22.279273111225322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "great george street",
+        "Removal date": "14 October 2014",
+        "Set date": "?",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18563425540924,
+            22.280337873961845
+          ],
+          [
+            114.18564230203627,
+            22.280310572454482
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "yee wo street eastbound",
+        "Removal date": "14 October 2014",
+        "Set date": "early october?",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18624579906462,
+            22.279588321551522
+          ],
+          [
+            114.18625921010971,
+            22.27962058713538
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "yee wo street occupation limit east",
+        "Removal date": "14 October 2014",
+        "Set date": "???",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18566644191742,
+            22.27964788877745
+          ],
+          [
+            114.18570667505264,
+            22.279637960908218
+          ],
+          [
+            114.18577641248703,
+            22.279799288695788
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "yee wo street occupation limit west",
+        "Removal date": "14 October 2014",
+        "Set date": "???",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18477058410645,
+            22.279955652373815
+          ],
+          [
+            114.18472230434418,
+            22.279965580220487
+          ],
+          [
+            114.18481618165968,
+            22.280119461753756
+          ],
+          [
+            114.18492078781128,
+            22.280092160203758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "hennessy road westbound west limit",
+        "Set date": "3 October 2014",
+        "Removal date": "14 October 2014",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1832685470581,
+            22.279975508066453
+          ],
+          [
+            114.1832685470581,
+            22.27993331471623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "28 September 2014",
+        "Comments": "Percival Street (north of Hennessy)",
+        "Removal date": "?",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1826730966568,
+            22.27992090490492
+          ],
+          [
+            114.18271601200104,
+            22.27993331471623
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set date": "28 September 2014",
+        "Comments": "Percival Street (south of Hennessy)",
+        "Removal date": "?",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18275356292725,
+            22.27974716743092
+          ],
+          [
+            114.1827991604805,
+            22.279762059222872
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "hennessy road",
+        "Set date": "28 September 2014",
+        "Removal date": "3 October 2014?",
+        "Zone": "Causeway Bay",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18280452489853,
+            22.27982659030296
+          ],
+          [
+            114.1828206181526,
+            22.279784396907804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "arsenal street (police barrier)",
+        "Removal date": "moved before October 18",
+        "Zone": "Admiralty",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.169020652771,
+            22.279181278161992
+          ],
+          [
+            114.16910380125044,
+            22.27914901247679
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Portland street H&M",
+        "Set date": "18 October 2014",
+        "Zone": "Mong Kok",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16871756315231,
+            22.319078302807053
+          ],
+          [
+            114.16874706745148,
+            22.31908326534057
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Barricade at Dundas street (no barricade)",
+        "Set date": "18 October 2014",
+        "Zone": "Mong Kok",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.17012840509415,
+            22.315237248934682
+          ],
+          [
+            114.17030811309814,
+            22.315264543618014
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Police cordon Tamar street (no barricade, just police cones)",
+        "Set date": "14 October 2014?",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16377693414688,
+            22.278712184005848
+          ],
+          [
+            114.16384130716324,
+            22.278674954243527
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Harcourt Road east barricade",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.167400598526,
+            22.279528754300227
+          ],
+          [
+            114.16736841201782,
+            22.27976454118804
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "southermost police cones to divert traffic on nathan road",
+        "Set date": "18 October 2014",
+        "Removal date": "",
+        "Zone": "Mong Kok",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.17060047388077,
+            22.31298169711562
+          ],
+          [
+            114.17076408863068,
+            22.313008992239943
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Club street, seen on sat 18",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16138172149658,
+            22.281645858114686
+          ],
+          [
+            114.1614219546318,
+            22.281630966523352
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "connaught road central (seen on sat 18)",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1610786318779,
+            22.281710388325454
+          ],
+          [
+            114.16111081838608,
+            22.281802219727897
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "connaught road central (seen on sat 18)",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16112422943115,
+            22.281841930585955
+          ],
+          [
+            114.16115641593933,
+            22.281923834195066
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "alley behind AIA Central, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16167944669724,
+            22.28142744794957
+          ],
+          [
+            114.1617277264595,
+            22.281417520206695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "corner of city hall parking lot, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16217565536498,
+            22.281640894251087
+          ],
+          [
+            114.16214883327484,
+            22.281563954342744
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Corner of AIA Central, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16211664676666,
+            22.28142744794957
+          ],
+          [
+            114.16213810443878,
+            22.281491978261133
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Cotton tree drive, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16336923837662,
+            22.280350283736148
+          ],
+          [
+            114.16344970464706,
+            22.280322982231215
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Harcourt road flyover, see on sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16333705186844,
+            22.280045002968475
+          ],
+          [
+            114.16344970464706,
+            22.280010255521784
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "close to PLA HQ, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16368305683136,
+            22.28093105994196
+          ],
+          [
+            114.16375279426575,
+            22.281032819627107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Police barrier, Tim Wa Avenue south, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16428923606871,
+            22.2808367460213
+          ],
+          [
+            114.16436970233916,
+            22.280747395932536
+          ],
+          [
+            114.1643938422203,
+            22.280710166712026
+          ],
+          [
+            114.16444212198257,
+            22.280697756969655
+          ],
+          [
+            114.16449040174483,
+            22.280712648660366
+          ],
+          [
+            114.16460305452347,
+            22.280680383328484
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Tamar street, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16439920663834,
+            22.279531236269545
+          ],
+          [
+            114.16450917720795,
+            22.279471668993935
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Police cordon, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16574835777283,
+            22.278312584039167
+          ],
+          [
+            114.16589319705963,
+            22.278290246119127
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Top of Lennon Wall, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16624456644057,
+            22.280054930808802
+          ],
+          [
+            114.16626870632172,
+            22.28008471432556
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Tim Mei Avenue, under bridge, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16637867689133,
+            22.27980921655356
+          ],
+          [
+            114.16642159223557,
+            22.27971986580824
+          ],
+          [
+            114.16647255420685,
+            22.27969504614663
+          ],
+          [
+            114.16650205850601,
+            22.279729793671656
+          ],
+          [
+            114.1665717959404,
+            22.279779432978124
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Tim Mei Avenue north, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.167041182518,
+            22.28209012319326
+          ],
+          [
+            114.16715651750565,
+            22.282047930481095
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "flyover to Wan Chai, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16773319244383,
+            22.279565983835266
+          ],
+          [
+            114.16774660348892,
+            22.27953371823881
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Harcourt Road, east, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16712969541548,
+            22.27944188534662
+          ],
+          [
+            114.16714578866959,
+            22.279374872116954
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "eastern most barrier on Harcourt Road, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16796118021011,
+            22.27974468546544
+          ],
+          [
+            114.16796118021011,
+            22.279461741112197
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Arsenal Street, police barrier, seen on Sat 18",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1690394282341,
+            22.279245809510087
+          ],
+          [
+            114.16910380125044,
+            22.27923339963777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "blocked by police",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16465938091278,
+            22.282370580309347
+          ],
+          [
+            114.16472375392914,
+            22.28232838768181
+          ],
+          [
+            114.16479080915451,
+            22.282196845878957
+          ],
+          [
+            114.16482836008072,
+            22.282067785876635
+          ],
+          [
+            114.16473716497421,
+            22.281764990788233
+          ],
+          [
+            114.16451454162598,
+            22.28107997652926
+          ],
+          [
+            114.16438043117523,
+            22.28078710709015
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "blocked by police",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16498392820358,
+            22.282318460002905
+          ],
+          [
+            114.16491955518723,
+            22.28202559315774
+          ],
+          [
+            114.16482299566269,
+            22.281680605154957
+          ],
+          [
+            114.16468352079391,
+            22.28118421804602
+          ],
+          [
+            114.16460573673248,
+            22.280911204385003
+          ],
+          [
+            114.16451454162598,
+            22.280730022297533
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "blocked by police",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16487395763396,
+            22.282338315360022
+          ],
+          [
+            114.16482836008072,
+            22.282067785876635
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "blocked by police",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16495978832245,
+            22.282191882034912
+          ],
+          [
+            114.16519850492477,
+            22.282318460002905
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16718065738678,
+            22.281030337684456
+          ],
+          [
+            114.16781365871428,
+            22.280839227967398
+          ],
+          [
+            114.1680148243904,
+            22.280792070984056
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.1671511530876,
+            22.28095836132817
+          ],
+          [
+            114.16800677776337,
+            22.280710166712026
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16797727346419,
+            22.279498970665074
+          ],
+          [
+            114.16822135448456,
+            22.27952627233087
+          ],
+          [
+            114.16872292757033,
+            22.279412101692948
+          ],
+          [
+            114.16931569576263,
+            22.27924332753572
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16797727346419,
+            22.27961314123207
+          ],
+          [
+            114.16829109191895,
+            22.279593285487994
+          ],
+          [
+            114.1692191362381,
+            22.279367426200565
+          ],
+          [
+            114.16947662830353,
+            22.279322750693908
+          ],
+          [
+            114.170101583004,
+            22.27925573740716
+          ],
+          [
+            114.17074531316757,
+            22.27917879618648
+          ],
+          [
+            114.17148292064665,
+            22.279099372946526
+          ],
+          [
+            114.17184501886366,
+            22.279062143287277
+          ],
+          [
+            114.1720300912857,
+            22.27905717933196
+          ],
+          [
+            114.17231440544128,
+            22.279074553174794
+          ],
+          [
+            114.17274624109268,
+            22.27913412061956
+          ],
+          [
+            114.17320489883423,
+            22.2791961700142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic - unconfirmed",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16797995567322,
+            22.27971241991022
+          ],
+          [
+            114.16814088821411,
+            22.27971241991022
+          ],
+          [
+            114.16830450296402,
+            22.27971241991022
+          ],
+          [
+            114.1685888171196,
+            22.279672708447425
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "blocked by police",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16867196559906,
+            22.278404417672935
+          ],
+          [
+            114.1690742969513,
+            22.27921354383977
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.15742278099059,
+            22.283864687499513
+          ],
+          [
+            114.15755689144135,
+            22.283673581656373
+          ],
+          [
+            114.15774464607237,
+            22.283447728959537
+          ],
+          [
+            114.15795922279358,
+            22.283221875897866
+          ],
+          [
+            114.1581442952156,
+            22.283060552059016
+          ],
+          [
+            114.15829986333847,
+            22.282938938580532
+          ],
+          [
+            114.15851444005966,
+            22.282794987795814
+          ],
+          [
+            114.15869683027267,
+            22.28269322939308
+          ],
+          [
+            114.15891945362091,
+            22.282601398575807
+          ],
+          [
+            114.15931105613708,
+            22.28245992936092
+          ],
+          [
+            114.15963828563689,
+            22.282335833440534
+          ],
+          [
+            114.1600701212883,
+            22.28217947242405
+          ],
+          [
+            114.16032224893569,
+            22.28209012319326
+          ],
+          [
+            114.16055560112,
+            22.282028075082735
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16076749563217,
+            22.281988364277538
+          ],
+          [
+            114.16112422943115,
+            22.281886605287777
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.15857076644896,
+            22.282921565217823
+          ],
+          [
+            114.15908575057983,
+            22.282665928345597
+          ],
+          [
+            114.15947198867798,
+            22.28249467619889
+          ],
+          [
+            114.15973216295242,
+            22.28238298990326
+          ],
+          [
+            114.15975093841553,
+            22.282345761118222
+          ],
+          [
+            114.15999233722687,
+            22.2822564119937
+          ],
+          [
+            114.160019159317,
+            22.282263857756252
+          ],
+          [
+            114.16016668081284,
+            22.28220429164469
+          ],
+          [
+            114.16055560112,
+            22.28207274972508
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Source": "",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16139513254166,
+            22.28162848459131
+          ],
+          [
+            114.16137099266051,
+            22.281558990476245
+          ],
+          [
+            114.16121810674667,
+            22.28106756681971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Occupy Admiralty",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              114.16117787361145,
+              22.281918870341336
+            ],
+            [
+              114.16110277175903,
+              22.281695496741
+            ],
+            [
+              114.1612958908081,
+              22.281660749704432
+            ],
+            [
+              114.16204690933228,
+              22.281462195044114
+            ],
+            [
+              114.16224539279938,
+              22.281407592463093
+            ],
+            [
+              114.1623204946518,
+              22.28125371234735
+            ],
+            [
+              114.16297495365143,
+              22.281114723710157
+            ],
+            [
+              114.16360259056091,
+              22.280722576453304
+            ],
+            [
+              114.16348457336424,
+              22.280613370692333
+            ],
+            [
+              114.16335046291351,
+              22.280365175463867
+            ],
+            [
+              114.16348457336424,
+              22.280325464186422
+            ],
+            [
+              114.16333973407745,
+              22.28005741276877
+            ],
+            [
+              114.16347920894623,
+              22.280022665325156
+            ],
+            [
+              114.16329681873322,
+              22.279804252624757
+            ],
+            [
+              114.16339874267578,
+              22.279749649396354
+            ],
+            [
+              114.16366696357726,
+              22.280107051958957
+            ],
+            [
+              114.1637635231018,
+              22.280166618963914
+            ],
+            [
+              114.16390299797058,
+              22.28019143854183
+            ],
+            [
+              114.16411221027374,
+              22.280166618963914
+            ],
+            [
+              114.16423022747038,
+              22.280141799381607
+            ],
+            [
+              114.16460037231445,
+              22.27989856724178
+            ],
+            [
+              114.1646271944046,
+              22.2798538919048
+            ],
+            [
+              114.1644287109375,
+              22.279561019897837
+            ],
+            [
+              114.1645359992981,
+              22.279496488695184
+            ],
+            [
+              114.16475057601929,
+              22.279779432978124
+            ],
+            [
+              114.16531383991241,
+              22.279446849288274
+            ],
+            [
+              114.16573762893677,
+              22.2793128228016
+            ],
+            [
+              114.16586101055144,
+              22.279218507789537
+            ],
+            [
+              114.16582345962524,
+              22.278970310085406
+            ],
+            [
+              114.16582345962524,
+              22.27861290461762
+            ],
+            [
+              114.16575908660887,
+              22.27835477787838
+            ],
+            [
+              114.1658878326416,
+              22.278339885936585
+            ],
+            [
+              114.16607022285461,
+              22.279129156666787
+            ],
+            [
+              114.16614532470703,
+              22.279218507789537
+            ],
+            [
+              114.16627407073975,
+              22.279248291484432
+            ],
+            [
+              114.16672468185425,
+              22.27930289490859
+            ],
+            [
+              114.16793704032897,
+              22.27943692140478
+            ],
+            [
+              114.16794240474701,
+              22.279769505118242
+            ],
+            [
+              114.167400598526,
+              22.27970993794412
+            ],
+            [
+              114.16738450527191,
+              22.279784396907804
+            ],
+            [
+              114.16710555553436,
+              22.27970993794412
+            ],
+            [
+              114.1666656732559,
+              22.279655334678903
+            ],
+            [
+              114.16660130023956,
+              22.279739721534348
+            ],
+            [
+              114.16660130023956,
+              22.27984892797759
+            ],
+            [
+              114.1666978597641,
+              22.280146763298422
+            ],
+            [
+              114.16692852973937,
+              22.280896312715438
+            ],
+            [
+              114.1669875383377,
+              22.28092609605299
+            ],
+            [
+              114.16708409786224,
+              22.280901276605462
+            ],
+            [
+              114.16716456413269,
+              22.281119687592437
+            ],
+            [
+              114.1670036315918,
+              22.28117925416603
+            ],
+            [
+              114.16694462299347,
+              22.281263640101866
+            ],
+            [
+              114.16691243648529,
+              22.281462195044114
+            ],
+            [
+              114.16695535182953,
+              22.281690532879157
+            ],
+            [
+              114.167041182518,
+              22.281879159505124
+            ],
+            [
+              114.16717529296875,
+              22.28201814738249
+            ],
+            [
+              114.16697680950165,
+              22.282092605117107
+            ],
+            [
+              114.16684806346892,
+              22.281923834195066
+            ],
+            [
+              114.16676759719847,
+              22.281755063069312
+            ],
+            [
+              114.16673004627228,
+              22.281472122783832
+            ],
+            [
+              114.1663920879364,
+              22.28084170991345
+            ],
+            [
+              114.16654229164124,
+              22.28076725151275
+            ],
+            [
+              114.16640281677246,
+              22.280543876072755
+            ],
+            [
+              114.16636526584624,
+              22.28047438141866
+            ],
+            [
+              114.16626334190367,
+              22.280131871547447
+            ],
+            [
+              114.16620969772339,
+              22.280032593167075
+            ],
+            [
+              114.16613459587097,
+              22.27996309825888
+            ],
+            [
+              114.1660326719284,
+              22.279918422942522
+            ],
+            [
+              114.16593611240387,
+              22.27993331471623
+            ],
+            [
+              114.16570007801054,
+              22.279888639390347
+            ],
+            [
+              114.16544258594513,
+              22.27993827864044
+            ],
+            [
+              114.1650778055191,
+              22.280141799381607
+            ],
+            [
+              114.16465938091278,
+              22.28041977845192
+            ],
+            [
+              114.16459500789642,
+              22.280653081887998
+            ],
+            [
+              114.16449844837189,
+              22.280682865277356
+            ],
+            [
+              114.16439652442932,
+              22.28066797358348
+            ],
+            [
+              114.16431605815887,
+              22.280722576453304
+            ],
+            [
+              114.16420876979826,
+              22.280831782128985
+            ],
+            [
+              114.16376888751984,
+              22.28107997652926
+            ],
+            [
+              114.16317880153656,
+              22.28138773697381
+            ],
+            [
+              114.16263163089752,
+              22.281611111065782
+            ],
+            [
+              114.16245460510254,
+              22.281799737798895
+            ],
+            [
+              114.16240632534027,
+              22.281908942633333
+            ],
+            [
+              114.16242241859436,
+              22.282013183532097
+            ],
+            [
+              114.16231513023375,
+              22.282038002782265
+            ],
+            [
+              114.16220247745514,
+              22.28167564129259
+            ],
+            [
+              114.16167140007018,
+              22.28182952094401
+            ],
+            [
+              114.16117787361145,
+              22.281918870341336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16253775358199,
+            22.282626217721553
+          ],
+          [
+            114.16238218545914,
+            22.282055376254757
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic - presumed",
+        "Zone": "Admiralty",
+        "Current": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16177600622177,
+            22.278697292102116
+          ],
+          [
+            114.16192084550858,
+            22.278796571430437
+          ],
+          [
+            114.16209250688553,
+            22.278903296629778
+          ],
+          [
+            114.1623929142952,
+            22.279064625264876
+          ],
+          [
+            114.16251361370087,
+            22.27911922876075
+          ],
+          [
+            114.1627362370491,
+            22.279265665303512
+          ],
+          [
+            114.1629347205162,
+            22.27943195746276
+          ],
+          [
+            114.163076877594,
+            22.279573429741085
+          ],
+          [
+            114.16318416595459,
+            22.2797322756374
+          ],
+          [
+            114.16338264942168,
+            22.28001770140394
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic - presumed",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16332095861435,
+            22.279754613327093
+          ],
+          [
+            114.16310369968414,
+            22.279424511549422
+          ],
+          [
+            114.16310369968414,
+            22.279332678585508
+          ],
+          [
+            114.16312783956528,
+            22.2791961700142
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic - presumed",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16310369968414,
+            22.2794294754917
+          ],
+          [
+            114.16303396224976,
+            22.279404655778542
+          ],
+          [
+            114.16296690702438,
+            22.27940713775005
+          ],
+          [
+            114.16291058063507,
+            22.279456777171067
+          ],
+          [
+            114.16290789842606,
+            22.279513862483437
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic - presumed",
+        "Zone": "Admiralty"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16714310646057,
+            22.27973475760309
+          ],
+          [
+            114.16764736175537,
+            22.280429706265643
+          ],
+          [
+            114.16792631149292,
+            22.280370139372746
+          ],
+          [
+            114.16802287101746,
+            22.280265897249123
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "no traffic - presumed",
+        "Zone": "Admiralty",
+        "Source": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16743278503417,
+            22.27973475760309
+          ],
+          [
+            114.16770100593567,
+            22.279858855831847
+          ],
+          [
+            114.16786730289459,
+            22.27999039983408
+          ],
+          [
+            114.16800141334534,
+            22.280236113770965
+          ],
+          [
+            114.16808187961578,
+            22.28039992282237
+          ],
+          [
+            114.16809797286986,
+            22.280524020460838
+          ],
+          [
+            114.1680845618248,
+            22.28057862338687
+          ],
+          [
+            114.16804432868958,
+            22.280650599938603
+          ],
+          [
+            114.16800677776337,
+            22.28069031112371
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Hennessy Road - no traffic",
+        "Zone": "Causeway Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18272942304611,
+            22.279910977055078
+          ],
+          [
+            114.18304592370987,
+            22.280030111206663
+          ],
+          [
+            114.18316125869751,
+            22.28006734060822
+          ],
+          [
+            114.18329000473022,
+            22.28007975040653
+          ],
+          [
+            114.18390691280365,
+            22.280092160203758
+          ],
+          [
+            114.18468207120895,
+            22.280107051958957
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Tramway - no traffic",
+        "Zone": "Causeway Bay"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18318539857863,
+            22.28001273748255
+          ],
+          [
+            114.18324172496796,
+            22.2800276292462
+          ],
+          [
+            114.18427169322966,
+            22.28005741276877
+          ],
+          [
+            114.18465793132782,
+            22.28006734060822
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Zone": "Causeway Bay",
+        "Comments": "Yee Wo street - no traffic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18586224317549,
+            22.279737239568746
+          ],
+          [
+            114.18703973293304,
+            22.279340124503754
+          ],
+          [
+            114.18716311454773,
+            22.279322750693908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Tramway yee wo street - no traffic",
+        "Zone": "Causeway Bay",
+        "Source": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18584078550339,
+            22.279687600247293
+          ],
+          [
+            114.1870531439781,
+            22.279280557146738
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Sugar street - no traffic",
+        "Zone": "Causeway Bay",
+        "Source": ""
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18645769357681,
+            22.279541164146345
+          ],
+          [
+            114.18652206659317,
+            22.279655334678903
+          ],
+          [
+            114.18655425310135,
+            22.279687600247293
+          ],
+          [
+            114.1866186261177,
+            22.27971986580824
+          ],
+          [
+            114.18716043233871,
+            22.279908495092513
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Jardine's Bazaar",
+        "Zone": "Causeway Bay",
+        "Source": "",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18458819389343,
+            22.27984892797759
+          ],
+          [
+            114.18462306261063,
+            22.279891121353277
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Comments": "Jardine's Bazaar - no traffic",
+        "Zone": "Causeway Bay",
+        "Source": "",
+        "Current": "expired"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.18462038040161,
+            22.27985637386834
+          ],
+          [
+            114.18611168861389,
+            22.278933080391795
+          ],
+          [
+            114.18615460395813,
+            22.278928116431914
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Zone": "Admiralty",
+        "Comments": "drake street - no traffic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16361331939697,
+            22.27999288179519
+          ],
+          [
+            114.1643750667572,
+            22.279456777171067
+          ],
+          [
+            114.16447699069977,
+            22.279412101692948
+          ],
+          [
+            114.16516900062561,
+            22.278960382168083
+          ],
+          [
+            114.16579127311707,
+            22.278890886727055
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Zone": "Admiralty",
+        "Comments": "tamar street - no traffic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16383862495422,
+            22.278732039875045
+          ],
+          [
+            114.1642516851425,
+            22.279238363586828
+          ],
+          [
+            114.16439116001128,
+            22.27944188534662
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Zone": "Admiralty",
+        "Comments": "no traffic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16425704956055,
+            22.279248291484432
+          ],
+          [
+            114.16431069374083,
+            22.279084481084013
+          ],
+          [
+            114.16477739810944,
+            22.278816427287637
+          ],
+          [
+            114.16490077972412,
+            22.27887599484236
+          ],
+          [
+            114.16497588157652,
+            22.27884124710519
+          ],
+          [
+            114.16510999202728,
+            22.2788809588041
+          ],
+          [
+            114.1656196117401,
+            22.278836283142027
+          ],
+          [
+            114.16579127311707,
+            22.278781679535676
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Zone": "Admiralty",
+        "Comments": "tamar street - no traffic"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.16387617588043,
+            22.278702256070193
+          ],
+          [
+            114.16395127773285,
+            22.278732039875045
+          ],
+          [
+            114.16418731212616,
+            22.27902987757458
+          ],
+          [
+            114.16424095630646,
+            22.279039805486967
+          ],
+          [
+            114.16431605815887,
+            22.279000093833172
+          ]
+        ]
+      }
+    }
+  ]
+}
